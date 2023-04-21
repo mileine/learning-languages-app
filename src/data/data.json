@@ -1,0 +1,116 @@
+{
+  "lessons": [
+    {
+      "id": 0,
+      "title": "Book A",
+      "description": "descr A" ,
+      "logoUrl": "" ,
+      "vocabularyAmountGoal": 100000,
+      "currentAmount": 30000,
+      "learningSessionCount": 1000,
+      "tags": ["english", "italian", "spanish"],
+      "bookmark": true
+    },
+    {
+      "id": 2,
+      "title": "Book B",
+      "description": "descr B" ,
+      "logoUrl": "" ,
+      "vocabularyAmountGoal": 200000,
+      "currentAmount": 40000,
+      "learningSessionsCount": 1200,
+      "tags": ["english"],
+      "bookmark": false
+    },
+    {
+      "id": 3,
+      "title": "Book C",
+      "description": "descr C" ,
+      "logoUrl": "" ,
+      "vocabularyAmountGoal": 500000,
+      "currentAmount": 30000,
+      "learningSessionsCount": 1000,
+      "tags": ["italian"],
+      "bookmark": true
+    },
+    {
+      "id": 4,
+      "title": "Book D",
+      "description": "descr D" ,
+      "logoUrl": "" ,
+      "vocabularyAmountGoal": 500000,
+      "currentAmount": 30000,
+      "learningSessionsCount": 1000,
+      "tags": ["italian"],
+      "bookmark": true
+    },
+    {
+      "id": 5,
+      "title": "Book E",
+      "description": "descr E" ,
+      "logoUrl": "" ,
+      "vocabularyAmountGoal": 500000,
+      "currentAmount": 30000,
+      "learningSessionsCount": 1000,
+      "tags": ["italian"],
+      "bookmark": true
+    },
+    {
+      "id": 6,
+      "title": "Book F",
+      "description": "descr F" ,
+      "logoUrl": "" ,
+      "vocabularyAmountGoal": 500000,
+      "currentAmount": 30000,
+      "learningSessionsCount": 1000,
+      "tags": ["italian"],
+      "bookmark": false
+    },
+    {
+      "id": 7,
+      "title": "Book G",
+      "description": "descr G" ,
+      "logoUrl": "" ,
+      "vocabularyAmountGoal": 500000,
+      "currentAmount": 30000,
+      "learningSessionsCount": 1000,
+      "tags": ["italian"],
+      "bookmark": true
+    },
+    {
+      "id": 8,
+      "title": "Book H",
+      "description": "descr H" ,
+      "logoUrl": "" ,
+      "vocabularyAmountGoal": 500000,
+      "currentAmount": 30000,
+      "learningSessionsCount": 1000,
+      "tags": ["italian"],
+      "bookmark": false
+    },
+    {
+      "id": 9,
+      "title": "Book I",
+      "description": "descr I" ,
+      "logoUrl": "" ,
+      "vocabularyAmountGoal": 500000,
+      "currentAmount": 30000,
+      "learningSessionsCount": 1000,
+      "tags": ["italian"],
+      "bookmark": false
+    },
+    {
+      "id": 10,
+      "title": "Book J",
+      "description": "descr J" ,
+      "logoUrl": "" ,
+      "vocabularyAmountGoal": 500000,
+      "currentAmount": 30000,
+      "learningSessionsCount": 1000,
+      "tags": ["italian"],
+      "bookmark": false
+    }
+  ],
+  "selectedItems": [],
+  "selectedTag": "todos"
+}

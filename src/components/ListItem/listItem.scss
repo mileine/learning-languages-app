@@ -1,0 +1,22 @@
+.list-item {
+  background-color: pink;
+  padding: 10px;
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: space-between;
+  &__info {
+    &--title {
+      font-weight: bold;
+      display: block;
+    }
+  }
+  &__tags {
+    display: flex;
+  }
+  &__tag {
+    padding: 2px;
+    background-color: aquamarine;
+    margin-right: 8px;
+    align-self: baseline;
+  }
+}

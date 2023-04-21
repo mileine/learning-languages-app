@@ -1,0 +1,13 @@
+.fave-card {
+  background-color: pink;
+  padding: 10px;
+  min-width: 100px;
+  margin-bottom: 8px;
+  margin-right: 5px;
+  display: block;
+  &__info {
+    &--title {
+      font-weight: bold;
+    }
+  }
+}
